@@ -1,0 +1,158 @@
+body{
+    margin: 0px;
+    height: 0px;
+    background-color: #f5f5f5;
+    
+}
+
+.navbar{
+    height: 0;
+    padding-bottom: 6px;
+    background-color:#c2185b;
+    border-radius: 0px 0px 7px 7px;
+}
+
+.navbar2{
+    border-radius: 8px 8px 0px 0px;
+}
+
+.navbar-toggle{
+    display: inline;
+}
+
+.icon1{
+    float: left;
+    border: none;
+}
+.icon1 .icon-bar {
+    height: 3px;
+}
+.icon2{
+    float: right;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    padding-top: 5px;
+    margin-right: 0;
+}
+
+.formb{
+    width: 60%;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 55px;
+}
+.buscar{
+    border-radius:20px ;
+    padding: 5px 12px;
+}
+ 
+section{
+    margin-top: 60px; 
+    margin-bottom: 60px; 
+    padding-bottom: 70px;
+}
+.contenido{
+    background: white;
+    border-radius:1rem;
+    padding: 0.5rem 1rem;
+    height: 13rem;
+    width: 100%;
+    position: relative;
+    margin-bottom: 0.5rem;
+    box-shadow: rgb(134 134 134 / 37%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1px 2px;
+}
+
+.item{
+    float: left;
+    position: relative;
+    width: 120px;
+    border-right: 0.1rem solid rgb(158 158 158 / 55%);
+    height: 100%;
+}
+
+.img-item{
+    border-radius: 15px;
+    width: 95%;
+    height: 100%;
+    display: block;
+}
+
+.descri{
+    display: grid;
+    padding-left: 1.2rem;
+}
+
+.titulo{
+    margin-bottom: 3px;
+    margin-top: 5px;
+    font-weight: 900;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.descripcion{
+    color: rgb(97, 97, 97);
+    font-size: 1.1rem;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.star{
+    display: flex;
+    color: yellow;
+    margin-bottom: 8px;
+}
+
+
+.precio{
+    position: absolute;
+    font-weight: 700;
+    margin-top: 4.5px;
+    font-size: 1.3rem;
+}
+
+.add{
+    float: right;
+    background-color: #c2185bb8;
+    color: white;
+    width: 50%;
+    padding: 0.4rem;
+    border-radius: 15px;
+    border: 1px solid transparent;
+    outline: none;
+}
+
+.add:hover{
+    color: white;
+    background-color:#c9195f8e;
+    border-color: #adadad;
+}  
+
+
+
+.add:active:hover{
+    color: #f3f3f3;
+    background-color:#c2185b9c;
+    border-color: #8c8c8c;
+} 
+
+
+.navbar2 .container-fluid{
+    display: flex;
+    justify-content: center;
+}
+
+.icon3, .icon4, .icon5{
+    border: none;
+    color: white;
+    font-size: 2rem;
+    margin-top: auto;
+} 
+
+.icon3{
+    margin-right: 0px
+}
+.icon4{
+    margin: 0px 35px 8px 35px;
+}
