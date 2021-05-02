@@ -137,6 +137,18 @@ section{
     border-color: #8c8c8c;
 } 
 
+@media (max-width: 360px) {
+.add {
+width: 80px;
+}
+.precio{
+font-size: 3.5vw;
+}
+.add{
+width:65px;
+}
+
+}
 
 .navbar2 .container-fluid{
     display: flex;
