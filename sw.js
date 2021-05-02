@@ -2,8 +2,8 @@ const CACHE_NAME='app',
 urlsTocache=[
 './',
 './css/style.css',
-'./css/bootstrap.min.css',
-'./css/bootstrap.min.js',
+'./css/bootstrap.css',
+'./css/bootstrap.js',
 './js/index.js',
 ]
 //durante la instalacion almacena en cahe los archivos estaticos
